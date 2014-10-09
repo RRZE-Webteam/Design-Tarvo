@@ -1,0 +1,710 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tarvo v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-09-29 15:42:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: taxonomy-post_format.php:23
+#, php-format
+#@ tarvo
+msgid "%s Archives"
+msgstr "%s Archiv"
+
+#: comments.php:46
+#@ tarvo
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: functions.php:320
+#: functions.php:326
+#@ tarvo
+msgid ", "
+msgstr ", "
+
+#: functions.php:359
+#, php-format
+#@ tarvo
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr "%1$s um %2$s"
+
+#: image.php:22
+#, php-format
+#@ tarvo
+msgid "<span class=\"attachment-meta\">Published on <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" rel=\"gallery\">%5$s</a></span>"
+msgstr "<span class=\"attachment-meta\">Veröffentlicht am <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> bei <a href=\"%3$s\" title=\"Zurück zu %4$s\" rel=\"gallery\">%5$s</a>.</span>"
+
+#: functions.php:257
+#@ tarvo
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Ältere Artikel"
+
+#: image.php:51
+#@ tarvo
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Zurück"
+
+#: author-bio.php:26
+#, php-format
+#@ tarvo
+msgid "About %s"
+msgstr "Über %s"
+
+#: author.php:31
+#, php-format
+#@ tarvo
+msgid "All posts by %s"
+msgstr "Alle Artikel von %s"
+
+#: functions.php:218
+#@ tarvo
+msgid "Appears in the footer section of the site."
+msgstr "Erscheint in der Fußzeile der Seite."
+
+#: functions.php:228
+#@ tarvo
+msgid "Appears on posts and pages in the sidebar."
+msgstr "Erscheint bei Beiträgen und Seiten in der Seitenleiste."
+
+#: archive.php:35
+#@ tarvo
+msgid "Archives"
+msgstr "Archiv"
+
+#: category.php:24
+#: functions.php:790
+#, php-format
+#@ tarvo
+msgid "Category Archives: %s"
+msgstr "Kategorie-Archiv: %s"
+
+#: comments.php:45
+#@ tarvo
+msgid "Comment navigation"
+msgstr "Kommentar-Navigation"
+
+#: comments.php:52
+#@ tarvo
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: content-aside.php:13
+#: content-audio.php:29
+#: content-gallery.php:29
+#: content-image.php:28
+#: content-link.php:24
+#: content-quote.php:13
+#: content-status.php:13
+#: content-video.php:28
+#: content.php:43
+#@ tarvo
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Weiterlesen <span class=\"meta-nav\">&rarr;</span>"
+
+#: archive.php:29
+#, php-format
+#@ tarvo
+msgid "Daily Archives: %s"
+msgstr "Archiv für den Tag: %s"
+
+#: content-aside.php:20
+#: content-audio.php:15
+#: content-chat.php:29
+#: content-gallery.php:15
+#: content-image.php:15
+#: content-link.php:15
+#: content-quote.php:25
+#: content-status.php:19
+#: content-video.php:15
+#: content.php:18
+#: image.php:44
+#: page.php:43
+#@ tarvo
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: image.php:39
+#@ tarvo
+msgid "Full resolution"
+msgstr "Volle Auflösung"
+
+#: 404.php:22
+#@ tarvo
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Es sieht so aus, als ob wir nicht das finden könnten, wonach Sie gesucht haben. Möglicherweise hilft die Suchfunktion."
+
+#: content-none.php:27
+#@ tarvo
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Es sieht so aus, als ob wir nicht das finden könnten, wonach Sie gesucht haben. Möglicherweise hilft die Suchfunktion."
+
+#: content-gallery.php:39
+#: content-image.php:35
+#: content-quote.php:22
+#: content-video.php:35
+#: content.php:63
+#@ tarvo
+msgid "Leave a comment"
+msgstr "Hinterlassen Sie einen Kommentar"
+
+#: image.php:38
+#@ tarvo
+msgid "Link to full-size image"
+msgstr "Link zum Bild in Originalgröße"
+
+#: functions.php:216
+#@ tarvo
+msgid "Main Widget Area"
+msgstr "Haupt-Widgetbereich"
+
+#: header.php:48
+#@ tarvo
+msgid "Menu"
+msgstr "Menü"
+
+#: archive.php:31
+#, php-format
+#@ tarvo
+msgid "Monthly Archives: %s"
+msgstr "Archiv für den Monat: %s"
+
+#: functions.php:105
+#@ tarvo
+msgid "Navigation Menu"
+msgstr "Navigation Menü"
+
+#: comments.php:47
+#@ tarvo
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: functions.php:261
+#@ tarvo
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Neuere Artikel <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:52
+#@ tarvo
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Weiter <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:293
+#, php-format
+#@ tarvo
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: 404.php:16
+#@ tarvo
+msgid "Not Found"
+msgstr "Nicht gefunden"
+
+#: content-none.php:12
+#@ tarvo
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: content-gallery.php:39
+#: content-image.php:35
+#: content-quote.php:22
+#: content-video.php:35
+#: content.php:63
+#@ tarvo
+msgid "One comment so far"
+msgstr "Bisher ein Kommentar"
+
+#: functions.php:202
+#, php-format
+#@ tarvo
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: content-aside.php:14
+#: content-audio.php:30
+#: content-chat.php:24
+#: content-gallery.php:30
+#: content-image.php:29
+#: content-link.php:25
+#: content-quote.php:14
+#: content-status.php:14
+#: content-video.php:29
+#: content.php:44
+#: image.php:70
+#: page.php:39
+#@ tarvo
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: functions.php:363
+#, php-format
+#@ tarvo
+msgid "Permalink to %s"
+msgstr "Permanentlink zu %s"
+
+#: functions.php:289
+#@ tarvo
+msgid "Post navigation"
+msgstr "Beitragsnavigation"
+
+#: functions.php:253
+#@ tarvo
+msgid "Posts navigation"
+msgstr "Beitrags-Navigation"
+
+#: functions.php:292
+#, php-format
+#@ tarvo
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: content-none.php:18
+#, php-format
+#@ tarvo
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bereit, um Ihren ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">Starten Sie hier </a>."
+
+#: search.php:18
+#, php-format
+#@ tarvo
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: functions.php:226
+#@ tarvo
+msgid "Secondary Widget Area"
+msgstr "Zweiter Widgetbereich"
+
+#: header.php:49
+#@ tarvo
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: content-none.php:22
+#@ tarvo
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Leider konnte der gew&uuml;nschte Inhalt nicht gefunden werden. M&ouml;glicherweise hilft die Suchfunktion."
+
+#: functions.php:792
+#: tag.php:21
+#, php-format
+#@ tarvo
+msgid "Tag Archives: %s"
+msgstr "Schlagwort-Archiv: %s"
+
+#: 404.php:21
+#@ tarvo
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Es tut uns leid."
+
+#: content-gallery.php:39
+#: content-image.php:35
+#: content-quote.php:22
+#: content-video.php:35
+#: content.php:63
+#@ tarvo
+msgid "View all % comments"
+msgstr "Zeige alle % Kommentare"
+
+#: functions.php:333
+#, php-format
+#@ tarvo
+msgid "View all posts by %s"
+msgstr "Zeige alle Artikel von %s"
+
+#: author-bio.php:30
+#, php-format
+#@ tarvo
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Zeige alle Artikel von %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: archive.php:33
+#, php-format
+#@ tarvo
+msgid "Yearly Archives: %s"
+msgstr "Archiv für das Jahr: %s"
+
+#: comments.php:25
+#, php-format
+#@ tarvo
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein Kommentar zu &bdquo;%2$s&ldquo;"
+msgstr[1] "%1$s Kommentare zu &bdquo;%2$s&ldquo;"
+
+#: archive.php:31
+#@ tarvo
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+#@ tarvo
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/back-compat.php:37
+#: inc/back-compat.php:47
+#: inc/back-compat.php:60
+#, php-format
+#@ tarvo
+msgid "Tarvo requires at least WordPress version 3.6. You are running version %s. Please upgrade and try again."
+msgstr "Tarvo ben&ouml;tigt mindestens Wordpress Version 3.6. Sie haben Version %s. Bitte aktualisieren Sie Wordpress und versuchen Sie es erneut."
+
+#: inc/custom-header.php:49
+#@ tarvo
+msgctxt "header image description"
+msgid "FAU Aktuell"
+msgstr "FAU Aktuell"
+
+#: functions.php:532
+#@ tarvo
+msgid "Read more &rarr;"
+msgstr "Weiterlesen &rarr;"
+
+#: inc/constants.php:43
+#@ tarvo
+msgid "Home"
+msgstr "Startseite"
+
+#: functions.php:549
+#@ tarvo
+msgid "You are here: "
+msgstr "Sie befinden sich hier: "
+
+#: functions.php:610
+#@ tarvo
+msgid "Search for "
+msgstr "Suche nach "
+
+#: functions.php:612
+#@ tarvo
+msgid "Tag Archives "
+msgstr "Schlagwort-Archiv "
+
+#: functions.php:616
+#@ tarvo
+msgid "Articles by "
+msgstr "Beitr&auml;ge von "
+
+#: functions.php:563
+#@ tarvo
+msgid "Category Archives "
+msgstr "Kategorie-Archiv "
+
+#: functions.php:1030
+#: functions.php:1040
+#@ tarvo
+msgid "No content"
+msgstr "Kein Inhalt."
+
+#: inc/constants.php:71
+#: inc/constants.php:312
+#@ tarvo
+msgid "Share on Facebook"
+msgstr "Auf Facebook teilen"
+
+#: inc/constants.php:76
+#: inc/constants.php:321
+#@ tarvo
+msgid "Share on Twitter"
+msgstr "Auf Twitter teilen"
+
+#: inc/constants.php:178
+#@ tarvo
+msgid "Home Page Name"
+msgstr "Name der Startseite"
+
+#: inc/constants.php:179
+#@ tarvo
+msgid "Home page name for breadcrumb navigation"
+msgstr "Name der Startseite für die Breadcrumb-Navigation"
+
+#: inc/constants.php:208
+#@ tarvo
+msgid "Show Authors"
+msgstr "Autoren anzeigen"
+
+#: inc/constants.php:209
+#@ tarvo
+msgid "Show and link authors on post single view."
+msgstr "Bei der Anzeige von Artikeln die Autoren anzeigen und verlinken"
+
+#: inc/constants.php:214
+#@ tarvo
+msgid "Buttons"
+msgstr "Buttons"
+
+#: inc/constants.php:218
+#@ tarvo
+msgid "Show buttons"
+msgstr "Buttons anzeigen"
+
+#: inc/constants.php:219
+#@ tarvo
+msgid "Show buttons on top of the sidebar"
+msgstr "Buttons oberhalb der Sidebar anzeigen"
+
+#: inc/constants.php:225
+#@ tarvo
+msgid "First button"
+msgstr "Erster Button"
+
+#: inc/constants.php:226
+#: inc/constants.php:260
+#: inc/constants.php:302
+#: inc/constants.php:337
+#@ tarvo
+msgid "Show"
+msgstr "Anzeigen"
+
+#: inc/constants.php:232
+#: inc/constants.php:266
+#@ tarvo
+msgid "URL"
+msgstr "URL"
+
+#: inc/constants.php:233
+#: inc/constants.php:267
+#@ tarvo
+msgid "Link"
+msgstr "Link"
+
+#: inc/constants.php:239
+#: inc/constants.php:273
+#@ tarvo
+msgid "Link title"
+msgstr "Link-Titel"
+
+#: inc/constants.php:240
+#: inc/constants.php:274
+#@ tarvo
+msgid "Button Text"
+msgstr "Button-Beschriftung"
+
+#: inc/constants.php:246
+#: inc/constants.php:280
+#@ tarvo
+msgid "Color"
+msgstr "Farbe"
+
+#: inc/constants.php:247
+#: inc/constants.php:281
+#@ tarvo
+msgid "Button background color"
+msgstr "Hintergrundfarbe des Buttons"
+
+#: inc/constants.php:250
+#: inc/constants.php:284
+#@ tarvo
+msgid "Grey"
+msgstr "grau"
+
+#: inc/constants.php:251
+#: inc/constants.php:285
+#@ tarvo
+msgid "Yellow"
+msgstr "gelb"
+
+#: inc/constants.php:252
+#: inc/constants.php:286
+#@ tarvo
+msgid "Green"
+msgstr "gr&uuml;n"
+
+#: inc/constants.php:253
+#: inc/constants.php:287
+#@ tarvo
+msgid "Blue"
+msgstr "blau"
+
+#: inc/constants.php:259
+#@ tarvo
+msgid "Second button"
+msgstr "Zweiter Button"
+
+#: inc/constants.php:294
+#@ tarvo
+msgid "Social Media"
+msgstr "Social Media"
+
+#: inc/constants.php:303
+#@ tarvo
+msgid "Show social media share buttons in the header of each post"
+msgstr "Zeige Social-Media-Teilen-Buttons in der Kopfzeile jedes Artikels"
+
+#: inc/constants.php:338
+#@ tarvo
+msgid "Show social media link icons on top of the sidebar"
+msgstr "Social-Media-Link-Icons oberhalb der Sidebar anzeigen"
+
+#: inc/custom-header.php:54
+#@ tarvo
+msgctxt "header image description"
+msgid "FAU Blogsystem"
+msgstr "FAU Blogsystem"
+
+#: inc/theme-options.php:381
+#@ tarvo
+msgid "Save Options"
+msgstr "Optionen speichern"
+
+#: inc/constants.php:44
+#@ tarvo
+msgid "Back to Home Page"
+msgstr "Zur&uuml;ck zur Startseite"
+
+#: inc/constants.php:298
+#@ tarvo
+msgid "Share Icons in Post Header"
+msgstr "Share Icons in Post Header anzeigen"
+
+#: inc/constants.php:309
+#@ tarvo
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/constants.php:310
+#@ tarvo
+msgid "Show \"Share on Facebook\" icon."
+msgstr "Auf \"Share on Facebook\" teilen."
+
+#: inc/constants.php:318
+#@ tarvo
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/constants.php:319
+#@ tarvo
+msgid "Show \"Share on Twitter\" icon."
+msgstr "\"Share on Twitter\" Icon anzeigen"
+
+#: inc/constants.php:327
+#@ tarvo
+msgid "Twitter via (optional)"
+msgstr "Twittern via (optional)"
+
+#: inc/constants.php:328
+#@ tarvo
+msgid "Your Twitter user name. Appears appended to Tweet text as via @username. The Twitter account may appear in a list of recommended accounts to follow."
+msgstr "Ihr Twitter-Benutzername. Erscheint hinter dem Tweet-Text als \\\"via @username\\\". Dadurch kann Ihr Twitter-Account in der Liste der empfohlenen Twitteraccounts erscheinen."
+
+#: inc/constants.php:333
+#@ tarvo
+msgid "Follow Icons in Sidebar"
+msgstr "Social-Media-Icons in der Sidebar"
+
+#: inc/constants.php:344
+#@ tarvo
+msgid "Links"
+msgstr "Links"
+
+#: inc/constants.php:174
+#@ tarvo
+msgid "Content Options"
+msgstr "Inhaltsoptionen"
+
+#: inc/constants.php:184
+#@ tarvo
+msgid "Teaser"
+msgstr "Artikelauszug"
+
+#: inc/theme-options.php:16
+#@ tarvo
+msgid "Tarvo Theme Options"
+msgstr "Tarvo Theme-Optionen"
+
+#: inc/theme-options.php:33
+#@ tarvo
+msgid "Options"
+msgstr "Optionen"
+
+#: inc/constants.php:24
+#@ tarvo
+msgid "Your email address will not be published. Required fields are marked red."
+msgstr "Deine E-Mail-Adresse wird nicht ver&ouml;ffentlicht. Erforderliche Felder sind markiert"
+
+#: inc/constants.php:188
+#@ tarvo
+msgid "Teaser length"
+msgstr "L&auml;nge des Auszugs"
+
+#: inc/constants.php:189
+#@ tarvo
+msgid "Maximum length for teasers on home page."
+msgstr "Maximale Textl&auml;nge f&uuml;r Artikelausz&uuml;ge auf der Startseite."
+
+#: inc/constants.php:195
+#@ tarvo
+msgid "Teaser image"
+msgstr "Bild im Textauszug"
+
+#: inc/constants.php:196
+#@ tarvo
+msgid "Show teaser image if availible and depending on post content."
+msgstr "Links des Textauszuges  – wenn vorhanden – das Beitragsbild, ein Bild des Artikels, ein verlinktes Video oder ein Standardbild anzeigen."
+
+#: inc/constants.php:199
+#@ tarvo
+msgid "Featured image > first image > first video > default image"
+msgstr "Beitragsbild > erstes Bild > erstes Video > Standardbild"
+
+#: inc/constants.php:200
+#@ tarvo
+msgid "First image > featured image > first video > default image"
+msgstr "Erstes Bild > Beitragsbild > erstes Video > Standardbild"
+
+#: inc/constants.php:201
+#@ tarvo
+msgid "First video > featured image > first image > default image"
+msgstr "Erstes Video > Beitragsbild > erstes Bild > Standardbild"
+
+#: inc/constants.php:202
+#@ tarvo
+msgid "First video > first image > featured image > default image"
+msgstr "Erstes Video > erstes Bild > Beitragsbild > Standardbild"
+
+#: inc/constants.php:203
+#@ tarvo
+msgid "No teaser image"
+msgstr "Kein Bild"
+
+#: inc/theme-options.php:37
+#@ tarvo
+msgid "Options updated."
+msgstr "Optionen wurden gespeichert."
+
+#: inc/theme-options.php:372
+#@ tarvo
+msgid "Options not set"
+msgstr "Optionen nicht definiert."
+
+#: functions.php:999
+#@ tarvo
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: content.php:59
+#@ tarvo
+msgid "written by "
+msgstr "von "
+
