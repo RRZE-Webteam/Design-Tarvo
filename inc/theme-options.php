@@ -329,7 +329,7 @@ function theme_options_do_page($tab = '') {
 										foreach ($liste as $i => $value) {
 											echo "\t\t\t\t";
 											echo '<option value="' . $i . '"';
-											if ($i == $options[$name]) {
+											if (isset($options[$name]) && ($i == $options[$name])) {
 												echo ' selected="selected"';
 											}
 											echo '>';

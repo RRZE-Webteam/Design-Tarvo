@@ -42,7 +42,7 @@
 					<?php if (!is_home()) { ?>
 						<a class="home-link clear" href="<?php echo esc_url(home_url('/')); ?>" title="<?php echo esc_attr(get_bloginfo('name', 'display')); ?>" rel="home">
 						<?php } ?>
-						<?php if (!empty(get_header_image())) { ?>
+						<?php if (get_header_image()) { ?>
 							<img src="<?php header_image(); ?>" class="header-logo" alt ="<?php bloginfo('name'); ?>" title ="<?php bloginfo('name'); ?> - <?php bloginfo('description'); ?>">
 						<?php } else { ?>
 							<h1 class="site-title"><?php bloginfo('name'); ?></h1>
